@@ -1,4 +1,4 @@
-## [Оптимизация маркетинговых затрат в Яндекс.Афише](https://github.com/KseniyaCherednikova/data_analyst_portfolio/blob/main/%D0%A1%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F/C%D0%BE%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.ipynb)
+## [Оптимизация маркетинговых затрат в Яндекс.Афише](https://github.com/KseniyaCherednikova/data_analyst_portfolio/blob/main/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%90%D1%84%D0%B8%D1%88%D0%B8/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81_%D0%B0%D1%84%D0%B8%D1%88%D0%B8.ipynb)
 
 ## Задачи проекта
 На основе данных о посещениях сайта Яндекс.Афиши изучить, как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда он окупается

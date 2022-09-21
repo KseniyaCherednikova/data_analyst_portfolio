@@ -1,4 +1,4 @@
-## [Прогнозирование вероятности оттока пользователей для фитнес-центров](https://nbviewer.jupyter.org/github/KseniyaCherednikova/projects/blob/main/%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81_%D1%86%D0%B5%D0%BD%D1%82%D1%80/%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81_%D1%86%D0%B5%D0%BD%D1%82%D1%80.ipynb)
+## [Прогнозирование вероятности оттока пользователей для фитнес-центров](https://github.com/KseniyaCherednikova/data_analyst_portfolio/blob/main/%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81_%D1%86%D0%B5%D0%BD%D1%82%D1%80/%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81_%D1%86%D0%B5%D0%BD%D1%82%D1%80.ipynb)
 
 ## Описание проекта
 Сеть фитнес-центров разрабатывает стратегию взаимодействия с клиентами на основе аналитических данных.
